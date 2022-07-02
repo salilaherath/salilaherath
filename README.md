@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Salila Herath
+![header](https://capsule-render.vercel.app/api?type=waving&color=062940&height=300&section=header&text=Hi%20there!&desc=I'm%20Salila%20Herath&fontSize=90&descSize=30&descAlignY=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff)
 
 - 🔭 I’m currently working on Ecommerce project
 - 🌱 I’m currently learning MERN Stack
@@ -15,3 +15,5 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=salilaherath)](https://github.com/LordDashMe/github-contribution-stats/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salilaherath&layout=compact)](https://github.com/salilaherath/)
+
+
