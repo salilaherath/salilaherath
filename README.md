@@ -12,8 +12,9 @@
 <br/> 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,ps,ae,pr)](https://github.com/salilaherath)
 <br/> <br/>
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=salilaherath)](https://github.com/LordDashMe/github-contribution-stats/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salilaherath&layout=compact)](https://github.com/salilaherath/)
+<img align="left" width="41%" src="https://github-contribution-stats.vercel.app/api/?username=salilaherath" />
+<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilaherath&layout=compact" />
+
 
 
