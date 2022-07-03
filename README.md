@@ -13,8 +13,8 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,ps,ae,pr)](https://github.com/salilaherath)
 <br/> <br/>
 
-<img align="left" width="41%" src="https://github-contribution-stats.vercel.app/api/?username=salilaherath" />
-<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilaherath&layout=compact" />
+<!--- <img align="left" width="41%" src="https://github-contribution-stats.vercel.app/api/?username=salilaherath" /> -->
+<img align="left" width="41%" height="250em" src="https://github-readme-stats.vercel.app/api?username=salilaherath&show_icons=true&count_private=true&include_all_commits=true" />
 
-
+<img align="left" width="41%" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salilaherath&layout=compact" />
 
