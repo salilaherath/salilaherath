@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=062940&height=300&section=header&text=Hi%20there!&desc=I'm%20Salila%20Herath&fontSize=90&descSize=30&descAlignY=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=61DBFB&height=300&section=header&text=Hi%20there!&desc=I'm%20Salila%20Herath&fontSize=90&descSize=30&descAlignY=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff)
 
 - 🔭 I’m currently working on Ecommerce project
 - 🌱 I’m currently learning MERN Stack
